@@ -1,3 +1,3 @@
 print(8)
-print("hello")
+print("hi")
 a = 9
